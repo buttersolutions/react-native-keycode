@@ -147,13 +147,13 @@ const styles = StyleSheet.create({
     zIndex: 100,
   },
   box: {
-    width: 32,
+    width: 50,
     marginHorizontal: 5,
   },
   bar: {
     backgroundColor: "#CED5DB",
     height: 1,
-    width: 32,
+    width: 50,
   },
   barActive: {
     height: 2,
@@ -165,7 +165,9 @@ const styles = StyleSheet.create({
     lineHeight: 36,
     height: 36,
     textAlign: "center",
-    width: 32,
+    width: 50,
     marginBottom: 8,
+    color: "white",
+    fontFamily: "Balgin",
   },
 });
